@@ -1,6 +1,12 @@
-To run code
+## To Run the Code
 
-import given code from github repisetory to your local device;
-open terminal in your local IDE (i.e VS code);
-make sure you are in healthcare-services directory;
-write npm start in your terminal;
+1. **Import the given code from the GitHub repository to your local device.**
+   
+2. Open the terminal in your local IDE (i.e., VS Code).
+
+3. Make sure you are in the `healthcare-services` directory.
+
+4. Run the following command in your terminal:
+
+   ```bash
+   npm start
